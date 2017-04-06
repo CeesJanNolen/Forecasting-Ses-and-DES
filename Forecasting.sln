@@ -1,9 +1,7 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
-MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forecasting", "Forecasting\Forecasting.csproj", "{AAB892CF-6D58-411F-BC33-C1D2C245F1B0}"
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C# Express 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZGControlTest", "ZGControlTest\ZGControlTest.csproj", "{E34DD39C-7E93-40C9-B72B-2E5709003CF3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AAB892CF-6D58-411F-BC33-C1D2C245F1B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AAB892CF-6D58-411F-BC33-C1D2C245F1B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AAB892CF-6D58-411F-BC33-C1D2C245F1B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AAB892CF-6D58-411F-BC33-C1D2C245F1B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E34DD39C-7E93-40C9-B72B-2E5709003CF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E34DD39C-7E93-40C9-B72B-2E5709003CF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E34DD39C-7E93-40C9-B72B-2E5709003CF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E34DD39C-7E93-40C9-B72B-2E5709003CF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,25 @@
+C:\Users\ceesj\Downloads\zedgraph_sample_projects_5.1.2\zedgraph_sample_projects_5.1.2\CSharp\ZGControlTest\bin\Debug\ZGControlTest.exe
+C:\Users\ceesj\Downloads\zedgraph_sample_projects_5.1.2\zedgraph_sample_projects_5.1.2\CSharp\ZGControlTest\bin\Debug\ZGControlTest.pdb
+C:\Users\ceesj\Downloads\zedgraph_sample_projects_5.1.2\zedgraph_sample_projects_5.1.2\CSharp\ZGControlTest\bin\Debug\ZedGraph.dll
+C:\Users\ceesj\Downloads\zedgraph_sample_projects_5.1.2\zedgraph_sample_projects_5.1.2\CSharp\ZGControlTest\obj\Debug\ZGControlTest.csprojResolveAssemblyReference.cache
+C:\Users\ceesj\Downloads\zedgraph_sample_projects_5.1.2\zedgraph_sample_projects_5.1.2\CSharp\ZGControlTest\obj\Debug\ZGControlTest.Form1.resources
+C:\Users\ceesj\Downloads\zedgraph_sample_projects_5.1.2\zedgraph_sample_projects_5.1.2\CSharp\ZGControlTest\obj\Debug\ZGControlTest.Properties.Resources.resources
+C:\Users\ceesj\Downloads\zedgraph_sample_projects_5.1.2\zedgraph_sample_projects_5.1.2\CSharp\ZGControlTest\obj\Debug\ZGControlTest.csproj.GenerateResource.Cache
+C:\Users\ceesj\Downloads\zedgraph_sample_projects_5.1.2\zedgraph_sample_projects_5.1.2\CSharp\ZGControlTest\obj\Debug\ZGControlTest.exe
+C:\Users\ceesj\Downloads\zedgraph_sample_projects_5.1.2\zedgraph_sample_projects_5.1.2\CSharp\ZGControlTest\obj\Debug\ZGControlTest.pdb
+C:\Users\ceesj\Documents\hogeschool\data science\Forecasting\Forecasting\Nieuwe map\ZGControlTest\obj\Debug\ZGControlTest.csprojResolveAssemblyReference.cache
+C:\Users\ceesj\Documents\hogeschool\data science\Forecasting\Forecasting\Nieuwe map\ZGControlTest\obj\Debug\ZGControlTest.csproj.GenerateResource.Cache
+C:\Users\ceesj\Documents\hogeschool\data science\Forecasting\Forecasting\Nieuwe map\ZGControlTest\bin\Debug\forecasting.exe
+C:\Users\ceesj\Documents\hogeschool\data science\Forecasting\Forecasting\Nieuwe map\ZGControlTest\bin\Debug\forecasting.pdb
+C:\Users\ceesj\Documents\hogeschool\data science\Forecasting\Forecasting\Nieuwe map\ZGControlTest\obj\Debug\forecasting.Form1.resources
+C:\Users\ceesj\Documents\hogeschool\data science\Forecasting\Forecasting\Nieuwe map\ZGControlTest\obj\Debug\Forecasting.Properties.Resources.resources
+C:\Users\ceesj\Documents\hogeschool\data science\Forecasting\Forecasting\Nieuwe map\ZGControlTest\obj\Debug\forecasting.exe
+C:\Users\ceesj\Documents\hogeschool\data science\Forecasting\Forecasting\Nieuwe map\ZGControlTest\obj\Debug\forecasting.pdb
+C:\Users\ceesj\Documents\hogeschool\data science\Forecasting\Forecasting\ZGControlTest\bin\Debug\forecasting.exe
+C:\Users\ceesj\Documents\hogeschool\data science\Forecasting\Forecasting\ZGControlTest\bin\Debug\forecasting.pdb
+C:\Users\ceesj\Documents\hogeschool\data science\Forecasting\Forecasting\ZGControlTest\obj\Debug\ZGControlTest.csprojResolveAssemblyReference.cache
+C:\Users\ceesj\Documents\hogeschool\data science\Forecasting\Forecasting\ZGControlTest\obj\Debug\forecasting.Form1.resources
+C:\Users\ceesj\Documents\hogeschool\data science\Forecasting\Forecasting\ZGControlTest\obj\Debug\Forecasting.Properties.Resources.resources
+C:\Users\ceesj\Documents\hogeschool\data science\Forecasting\Forecasting\ZGControlTest\obj\Debug\ZGControlTest.csproj.GenerateResource.Cache
+C:\Users\ceesj\Documents\hogeschool\data science\Forecasting\Forecasting\ZGControlTest\obj\Debug\forecasting.exe
+C:\Users\ceesj\Documents\hogeschool\data science\Forecasting\Forecasting\ZGControlTest\obj\Debug\forecasting.pdb

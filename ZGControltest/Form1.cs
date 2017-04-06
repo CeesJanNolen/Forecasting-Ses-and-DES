@@ -74,7 +74,7 @@ namespace forecasting
                 @"Best Alpha for Ses: " + _finalSes.GetAlpha() + @"
 " + @"Best Alpha for Des: " + _finalDes.GetAlpha() +
                 @"
-" + @"Best Bet for Des: " + _finalDes.GetBeta());
+" + @"Best Beta for Des: " + _finalDes.GetBeta());
         }
 
         /// <summary>
@@ -190,15 +190,15 @@ namespace forecasting
         private void Des(IList<List<int>> lines)
         {
             var alpha = 0.0;
-            var beta = 0.0;
 
             for (var j = 0; j < 10; j++)
             {
-                alpha += 0.5;
+                alpha += 0.1;
+                var beta = 0.0;
+
                 for (var k = 0; k < 10; k++)
                 {
-                    beta += 0.5;
-
+                    beta += 0.1;
                     var des = new PointPairList
                     {
                         {lines[0][0], lines[0][1]},

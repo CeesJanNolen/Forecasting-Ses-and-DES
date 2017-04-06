@@ -15,7 +15,7 @@ namespace forecasting
         private readonly double _beta;
 
 
-        public DesResult(PointPairList des, List<double> trends, double alpha, double beta, IList<List<int>> normal)
+        public DesResult(PointPairList des, List<double> trends, double alpha, double beta, ICollection<List<int>> normal)
         {
             Trends = trends;
             Des = des;
@@ -23,8 +23,8 @@ namespace forecasting
             _beta = beta;
 
             //Error calculation
-            var sum = normal.Select((t, i) => Math.Pow(trends[i] - t[1], 2)).Sum();
-            Error = Math.Sqrt(sum / normal.Count - 2);
+            var sum = normal.Select((item, index) => Math.Pow(trends[index] - item[1], 2)).Sum();
+            Error = Math.Sqrt(sum / (normal.Count - 2));
         }
 
         public double GetAlpha()

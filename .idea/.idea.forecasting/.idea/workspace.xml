@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="807f127e-ec51-4f69-a82b-7de791f1e542" name="Default" comment="">
@@ -6,9 +6,9 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ZGControltest/bin/Debug/forecasting.pdb" afterPath="$PROJECT_DIR$/ZGControltest/bin/Debug/forecasting.pdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ZGControltest/obj/Debug/forecasting.exe" afterPath="$PROJECT_DIR$/ZGControltest/obj/Debug/forecasting.exe" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ZGControltest/obj/Debug/forecasting.pdb" afterPath="$PROJECT_DIR$/ZGControltest/obj/Debug/forecasting.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.forecasting/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.forecasting/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ZGControltest/DesResult.cs" afterPath="$PROJECT_DIR$/ZGControltest/DesResult.cs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ZGControltest/Form1.cs" afterPath="$PROJECT_DIR$/ZGControltest/Form1.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ZGControltest/Program.cs" afterPath="$PROJECT_DIR$/ZGControltest/Program.cs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ZGControltest/SesResult.cs" afterPath="$PROJECT_DIR$/ZGControltest/SesResult.cs" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,38 +21,18 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Form1.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ZGControltest/Form1.cs">
+      <file leaf-file-name="DesResult.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ZGControltest/DesResult.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            <state relative-caret-position="189">
+              <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
               <folding>
-                <marker date="1491488402958" expanded="true" signature="6:149" ph="..." />
-                <marker date="1491488402958" expanded="true" signature="172:8414" ph="{...}" />
-                <marker date="1491488402958" expanded="true" signature="212:8412" ph="{...}" />
-                <marker date="1491488402958" expanded="true" signature="953:1008" ph="{...}" />
-                <marker date="1491488402958" expanded="true" signature="1069:2637" ph="{...}" />
-                <marker date="1491488402958" expanded="true" signature="1356:1431" ph="{...}" />
-                <marker date="1491488402958" expanded="true" signature="2647:2817" ph="/// On resize action, resize the ZedGraphControl to fill most of the Form, with a small ... " />
-                <marker date="1491488402958" expanded="true" signature="2879:2922" ph="{...}" />
-                <marker date="1491488402958" expanded="true" signature="2954:3196" ph="{...}" />
-                <marker date="1491488402958" expanded="true" signature="3206:3317" ph="/// Display customized tooltips when the mouse hovers over a point ... " />
-                <marker date="1491488402958" expanded="true" signature="3446:3655" ph="{...}" />
-                <marker date="1491488402958" expanded="true" signature="3690:5560" ph="{...}" />
-                <marker date="1491488402958" expanded="true" signature="5245:5442" ph="/* Tell ZedGraph to calculate the axis ranges ... */" />
-                <marker date="1491488402958" expanded="true" signature="5610:6366" ph="{...}" />
-                <marker date="1491488402958" expanded="true" signature="5693:6257" ph="{...}" />
-                <marker date="1491488402958" expanded="true" signature="5950:6130" ph="{...}" />
-                <marker date="1491488402958" expanded="true" signature="6420:6619" ph="{...}" />
-                <marker date="1491488402958" expanded="true" signature="6483:6609" ph="{...}" />
-                <marker date="1491488402958" expanded="true" signature="6669:8022" ph="{...}" />
-                <marker date="1491488402958" expanded="true" signature="6778:7913" ph="{...}" />
-                <marker date="1491488402958" expanded="true" signature="6867:7899" ph="{...}" />
-                <marker date="1491488402958" expanded="true" signature="6988:7114" ph="{...}" />
-                <marker date="1491488402958" expanded="true" signature="7186:7296" ph="{...}" />
-                <marker date="1491488402958" expanded="true" signature="7392:7749" ph="{...}" />
-                <marker date="1491488402958" expanded="true" signature="8076:8406" ph="{...}" />
-                <marker date="1491488402958" expanded="true" signature="8282:8396" ph="{...}" />
+                <marker date="1491489780094" expanded="true" signature="6:82" ph="..." />
+                <marker date="1491489780094" expanded="true" signature="105:926" ph="{...}" />
+                <marker date="1491489780094" expanded="true" signature="134:924" ph="{...}" />
+                <marker date="1491489780094" expanded="true" signature="444:758" ph="{...}" />
+                <marker date="1491489780094" expanded="true" signature="792:839" ph="{...}" />
+                <marker date="1491489780094" expanded="true" signature="872:918" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -68,9 +48,9 @@
       <list>
         <option value="$PROJECT_DIR$/ZGControltest/Properties/AssemblyInfo.cs" />
         <option value="$PROJECT_DIR$/ZGControltest/Program.cs" />
-        <option value="$PROJECT_DIR$/ZGControltest/DesResult.cs" />
-        <option value="$PROJECT_DIR$/ZGControltest/SesResult.cs" />
         <option value="$PROJECT_DIR$/ZGControltest/Form1.cs" />
+        <option value="$PROJECT_DIR$/ZGControltest/SesResult.cs" />
+        <option value="$PROJECT_DIR$/ZGControltest/DesResult.cs" />
       </list>
     </option>
   </component>
@@ -112,10 +92,6 @@
               <option name="myItemId" value="forecasting (1 project)" />
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ZGControlTest" />
-              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
         <option name="show-file-system" value="false" />
@@ -129,6 +105,7 @@
     <property name="node.js.selected.package.jscs" value="" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/ceesj/Documents/hogeschool/data science/Forecasting/Forecasting/ZGControltest/DesResult.cs" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -165,6 +142,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -200,12 +183,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1491487931938</updated>
-      <workItem from="1491487936478" duration="490000" />
+      <workItem from="1491487936478" duration="692000" />
+      <workItem from="1491489354836" duration="485000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="490000" />
+    <option name="totallyTimeSpent" value="1177000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -221,27 +205,27 @@
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32955715" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -256,16 +240,45 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ZGControltest/Form1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <marker date="1491489548256" expanded="true" signature="6:149" ph="..." />
+            <marker date="1491489548256" expanded="true" signature="172:8419" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="212:8417" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="953:1008" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="1069:2638" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="1356:1431" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="2648:2818" ph="/// On resize action, resize the ZedGraphControl to fill most of the Form, with a small ... " />
+            <marker date="1491489548256" expanded="true" signature="2880:2923" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="2955:3197" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="3207:3318" ph="/// Display customized tooltips when the mouse hovers over a point ... " />
+            <marker date="1491489548256" expanded="true" signature="3447:3656" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="3691:5561" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="5246:5443" ph="/* Tell ZedGraph to calculate the axis ranges ... */" />
+            <marker date="1491489548256" expanded="true" signature="5611:6367" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="5694:6258" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="5951:6131" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="6421:6620" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="6484:6610" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="6670:8027" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="6751:7918" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="6873:7904" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="6993:7119" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="7191:7301" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="7397:7754" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="8081:8411" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="8287:8401" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ZGControltest/Properties/AssemblyInfo.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="1" column="36" lean-forward="false" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
-          <folding>
-            <marker date="1491488066171" expanded="true" signature="6:62" ph="..." />
-            <marker date="1491488066171" expanded="true" signature="64:251" ph="/* General Information about an assembly is controlled through the following ... */" />
-            <marker date="1491488066171" expanded="true" signature="576:786" ph="/* Setting ComVisible to false makes the types in this assembly not visible ... */" />
-            <marker date="1491488066171" expanded="true" signature="965:1131" ph="/* Version information for an assembly consists of the following four values: ... */" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -303,7 +316,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -311,28 +323,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <marker date="1490791614924" expanded="true" signature="0:392" ph="/* ------------------------------------------------------------------------------ ... */" />
-            <marker date="1490791614924" expanded="true" signature="428:992" ph="{...}" />
-            <marker date="1490791614924" expanded="true" signature="749:990" ph="{...}" />
-            <marker date="1490791614924" expanded="true" signature="934:987" ph="{...}" />
-            <marker date="1490791614924" expanded="true" signature="945:983" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ZGControltest/DesResult.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="34" column="24" lean-forward="false" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
-          <folding>
-            <marker date="1491488273058" expanded="true" signature="6:82" ph="..." />
-            <marker date="1491488273058" expanded="true" signature="105:904" ph="{...}" />
-            <marker date="1491488273058" expanded="true" signature="134:902" ph="{...}" />
-            <marker date="1491488273058" expanded="true" signature="438:736" ph="{...}" />
-            <marker date="1491488273058" expanded="true" signature="770:817" ph="{...}" />
-            <marker date="1491488273058" expanded="true" signature="850:896" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -340,27 +330,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <marker date="1491488251757" expanded="true" signature="6:41" ph="..." />
-            <marker date="1491488251757" expanded="true" signature="64:371" ph="{...}" />
-            <marker date="1491488251757" expanded="true" signature="100:369" ph="{...}" />
-            <marker date="1491488251757" expanded="true" signature="106:184" ph="/// The main entry point for the application. ... " />
-            <marker date="1491488251757" expanded="true" signature="227:366" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ZGControltest/SesResult.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-          <folding>
-            <marker date="1491488299863" expanded="true" signature="6:82" ph="..." />
-            <marker date="1491488299863" expanded="true" signature="105:661" ph="{...}" />
-            <marker date="1491488299863" expanded="true" signature="134:659" ph="{...}" />
-            <marker date="1491488299863" expanded="true" signature="333:572" ph="{...}" />
-            <marker date="1491488299863" expanded="true" signature="606:653" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -368,53 +337,69 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-          <folding>
-            <marker date="1491487791578" expanded="true" signature="21:3578" ph="{...}" />
-            <marker date="1491487791578" expanded="true" signature="44:3576" ph="{...}" />
-            <marker date="1491487791578" expanded="true" signature="50:114" ph="/// Required designer variable. ... " />
-            <marker date="1491487791578" expanded="true" signature="180:353" ph="/// Clean up any resources being used. ... " />
-            <marker date="1491487791578" expanded="true" signature="405:525" ph="{...}" />
-            <marker date="1491487791578" expanded="true" signature="455:491" ph="{...}" />
-            <marker date="1491487791578" expanded="true" signature="529:3532" ph="Windows Form Designer generated code" />
-            <marker date="1491487791578" expanded="true" signature="577:722" ph="/// Required method for Designer support - do not modify ... " />
-            <marker date="1491487791578" expanded="true" signature="759:3518" ph="{...}" />
-            <marker date="1491487791578" expanded="true" signature="898:918" ph="/* zg1 ... */" />
-            <marker date="1491487791578" expanded="true" signature="3063:3085" ph="/* Form1 ... */" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ZGControltest/Form1.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        <state relative-caret-position="357">
+          <caret line="220" column="46" lean-forward="false" selection-start-line="220" selection-start-column="46" selection-end-line="220" selection-end-column="46" />
           <folding>
-            <marker date="1491488402958" expanded="true" signature="6:149" ph="..." />
-            <marker date="1491488402958" expanded="true" signature="172:8414" ph="{...}" />
-            <marker date="1491488402958" expanded="true" signature="212:8412" ph="{...}" />
-            <marker date="1491488402958" expanded="true" signature="953:1008" ph="{...}" />
-            <marker date="1491488402958" expanded="true" signature="1069:2637" ph="{...}" />
-            <marker date="1491488402958" expanded="true" signature="1356:1431" ph="{...}" />
-            <marker date="1491488402958" expanded="true" signature="2647:2817" ph="/// On resize action, resize the ZedGraphControl to fill most of the Form, with a small ... " />
-            <marker date="1491488402958" expanded="true" signature="2879:2922" ph="{...}" />
-            <marker date="1491488402958" expanded="true" signature="2954:3196" ph="{...}" />
-            <marker date="1491488402958" expanded="true" signature="3206:3317" ph="/// Display customized tooltips when the mouse hovers over a point ... " />
-            <marker date="1491488402958" expanded="true" signature="3446:3655" ph="{...}" />
-            <marker date="1491488402958" expanded="true" signature="3690:5560" ph="{...}" />
-            <marker date="1491488402958" expanded="true" signature="5245:5442" ph="/* Tell ZedGraph to calculate the axis ranges ... */" />
-            <marker date="1491488402958" expanded="true" signature="5610:6366" ph="{...}" />
-            <marker date="1491488402958" expanded="true" signature="5693:6257" ph="{...}" />
-            <marker date="1491488402958" expanded="true" signature="5950:6130" ph="{...}" />
-            <marker date="1491488402958" expanded="true" signature="6420:6619" ph="{...}" />
-            <marker date="1491488402958" expanded="true" signature="6483:6609" ph="{...}" />
-            <marker date="1491488402958" expanded="true" signature="6669:8022" ph="{...}" />
-            <marker date="1491488402958" expanded="true" signature="6778:7913" ph="{...}" />
-            <marker date="1491488402958" expanded="true" signature="6867:7899" ph="{...}" />
-            <marker date="1491488402958" expanded="true" signature="6988:7114" ph="{...}" />
-            <marker date="1491488402958" expanded="true" signature="7186:7296" ph="{...}" />
-            <marker date="1491488402958" expanded="true" signature="7392:7749" ph="{...}" />
-            <marker date="1491488402958" expanded="true" signature="8076:8406" ph="{...}" />
-            <marker date="1491488402958" expanded="true" signature="8282:8396" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="6:149" ph="..." />
+            <marker date="1491489548256" expanded="true" signature="172:8419" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="212:8417" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="953:1008" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="1069:2638" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="1356:1431" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="2648:2818" ph="/// On resize action, resize the ZedGraphControl to fill most of the Form, with a small ... " />
+            <marker date="1491489548256" expanded="true" signature="2880:2923" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="2955:3197" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="3207:3318" ph="/// Display customized tooltips when the mouse hovers over a point ... " />
+            <marker date="1491489548256" expanded="true" signature="3447:3656" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="3691:5561" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="5246:5443" ph="/* Tell ZedGraph to calculate the axis ranges ... */" />
+            <marker date="1491489548256" expanded="true" signature="5611:6367" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="5694:6258" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="5951:6131" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="6421:6620" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="6484:6610" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="6670:8027" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="6751:7918" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="6873:7904" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="6993:7119" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="7191:7301" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="7397:7754" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="8081:8411" ph="{...}" />
+            <marker date="1491489548256" expanded="true" signature="8287:8401" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZGControltest/SesResult.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="62" lean-forward="false" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="62" />
+          <folding>
+            <marker date="1491489709775" expanded="true" signature="6:82" ph="..." />
+            <marker date="1491489709775" expanded="true" signature="105:678" ph="{...}" />
+            <marker date="1491489709775" expanded="true" signature="134:676" ph="{...}" />
+            <marker date="1491489709775" expanded="true" signature="333:589" ph="{...}" />
+            <marker date="1491489709775" expanded="true" signature="623:670" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZGControltest/DesResult.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+          <folding>
+            <marker date="1491489780094" expanded="true" signature="6:82" ph="..." />
+            <marker date="1491489780094" expanded="true" signature="105:926" ph="{...}" />
+            <marker date="1491489780094" expanded="true" signature="134:924" ph="{...}" />
+            <marker date="1491489780094" expanded="true" signature="444:758" ph="{...}" />
+            <marker date="1491489780094" expanded="true" signature="792:839" ph="{...}" />
+            <marker date="1491489780094" expanded="true" signature="872:918" ph="{...}" />
           </folding>
         </state>
       </provider>

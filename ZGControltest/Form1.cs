@@ -14,8 +14,8 @@ namespace forecasting
         private const string XAxis = "Month";
         private const string YAxis = "Demand";
 
-        private List<DesResult> _desResults = new List<DesResult>();
-        private List<SesResult> _sesResults = new List<SesResult>();
+        private readonly List<DesResult> _desResults = new List<DesResult>();
+        private readonly List<SesResult> _sesResults = new List<SesResult>();
 
         private readonly PointPairList _normal = new PointPairList();
         private SesResult _finalSes;
@@ -24,7 +24,8 @@ namespace forecasting
         private double _lowestY;
         private double _highestY;
 
-        private const string PathToFile = "C:\\Users\\ceesj\\Documents\\hogeschool\\data science\\forecasting\\forecasting\\SwordForecasting.csv";
+        private const string PathToFile =
+            "C:\\Users\\ceesj\\Documents\\hogeschool\\data science\\forecasting\\forecasting\\SwordForecasting.csv";
 
         public Form1()
         {
@@ -37,7 +38,7 @@ namespace forecasting
             var lines = File.ReadAllLines(PathToFile)
                 .Skip(1)
                 .Take(36)
-                .Select(line => line.Split(';').Select(Int32.Parse).ToList())
+                .Select(line => line.Split(';').Select(int.Parse).ToList())
                 .ToList();
             foreach (var line in lines)
             {
@@ -70,8 +71,10 @@ namespace forecasting
             ShowGraph();
 
             MessageBox.Show(this,
-                "Best Alpha for Ses: " + _finalSes.getAlpha() + "\n" + "Best Alpha for Des: " + _finalDes.getAlpha() +
-                "\n" + "Best Bet for Des: " + _finalDes.getBeta());
+                @"Best Alpha for Ses: " + _finalSes.GetAlpha() + @"
+" + @"Best Alpha for Des: " + _finalDes.GetAlpha() +
+                @"
+" + @"Best Bet for Des: " + _finalDes.GetBeta());
         }
 
         /// <summary>
@@ -116,13 +119,13 @@ namespace forecasting
 
 
             // Generate a red curve with diamond symbols, and "Alpha" in the legend
-            var normalCurve = myPane.AddCurve("normal",
+            myPane.AddCurve("normal",
                 _normal, Color.Blue, SymbolType.Diamond);
 
-            var sesCurve = myPane.AddCurve("ses",
+            myPane.AddCurve("ses",
                 _finalSes.Ses, Color.Red, SymbolType.Circle);
 
-            var desCurve = myPane.AddCurve("des",
+            myPane.AddCurve("des",
                 _finalDes.Des, Color.Green, SymbolType.Triangle);
 
             // Show the x axis grid

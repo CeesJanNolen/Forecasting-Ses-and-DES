@@ -9,21 +9,21 @@ namespace forecasting
     {
         public double Error;
         public PointPairList Ses;
-        private double alpha;
+        private readonly double _alpha;
 
-        public SesResult(PointPairList ses, double alpha, IList<List<int>> normal)
+        public SesResult(PointPairList ses, double alpha, IEnumerable<List<int>> normal)
         {
             Ses = ses;
-            this.alpha = alpha;
+            _alpha = alpha;
 
             //Error calculation
             var sum = normal.Select((t, i) => Math.Pow(t[1] - ses[i].Y, 2)).Sum();
             Error = Math.Sqrt(sum - ses.Count - 1);
         }
 
-        public double getAlpha()
+        public double GetAlpha()
         {
-            return alpha;
+            return _alpha;
         }
     }
 }

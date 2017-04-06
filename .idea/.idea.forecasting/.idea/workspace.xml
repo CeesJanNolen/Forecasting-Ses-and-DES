@@ -2,75 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="807f127e-ec51-4f69-a82b-7de791f1e542" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.forecasting/.idea/contentModel.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.forecasting/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.forecasting/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.forecasting/riderModule.iml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.vs/Forecasting/v14/.suo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/App.config" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/Forecasting.csproj" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/Form1.Designer.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/Form1.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/Form1.resx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/License-LGPL.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/Program.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/Properties/AssemblyInfo.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/Properties/Resources.Designer.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/Properties/Resources.resx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/Properties/Settings.Designer.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/Properties/Settings.settings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/bin/Debug/Forecasting.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/bin/Debug/Forecasting.exe.config" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/bin/Debug/Forecasting.pdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/bin/Debug/Forecasting.vshost.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/bin/Debug/Forecasting.vshost.exe.config" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/bin/Debug/Forecasting.vshost.exe.manifest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/bin/Debug/ZedGraph.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/bin/Debug/ZedGraph.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/bin/Debug/de/ZedGraph.resources.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/bin/Debug/es/ZedGraph.resources.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/bin/Debug/fr/ZedGraph.resources.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/bin/Debug/hu/ZedGraph.resources.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/bin/Debug/it/ZedGraph.resources.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/bin/Debug/ja/ZedGraph.resources.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/bin/Debug/pt/ZedGraph.resources.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/bin/Debug/ru/ZedGraph.resources.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/bin/Debug/sk/ZedGraph.resources.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/bin/Debug/sv/ZedGraph.resources.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/bin/Debug/tr/ZedGraph.resources.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/bin/Debug/zh-cn/ZedGraph.resources.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/bin/Debug/zh-tw/ZedGraph.resources.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/obj/Debug/DesignTimeResolveAssemblyReferences.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/obj/Debug/Forecasting.Form1.resources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/obj/Debug/Forecasting.Properties.Resources.resources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/obj/Debug/Forecasting.csproj.FileListAbsolute.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/obj/Debug/Forecasting.csproj.GenerateResource.Cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/obj/Debug/Forecasting.csprojResolveAssemblyReference.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/obj/Debug/Forecasting.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/obj/Debug/Forecasting.pdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Forecasting/packages.config" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/ZedGraph.5.1.7/ZedGraph.5.1.7.nupkg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/ZedGraph.5.1.7/content/License-LGPL.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/ZedGraph.5.1.7/lib/net35-Client/ZedGraph.XML" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/ZedGraph.5.1.7/lib/net35-Client/ZedGraph.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/ZedGraph.5.1.7/lib/net35-Client/de/ZedGraph.resources.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/ZedGraph.5.1.7/lib/net35-Client/es/ZedGraph.resources.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/ZedGraph.5.1.7/lib/net35-Client/fr/ZedGraph.resources.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/ZedGraph.5.1.7/lib/net35-Client/hu/ZedGraph.resources.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/ZedGraph.5.1.7/lib/net35-Client/it/ZedGraph.resources.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/ZedGraph.5.1.7/lib/net35-Client/ja/ZedGraph.resources.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/ZedGraph.5.1.7/lib/net35-Client/pt/ZedGraph.resources.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/ZedGraph.5.1.7/lib/net35-Client/ru/ZedGraph.resources.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/ZedGraph.5.1.7/lib/net35-Client/sk/ZedGraph.resources.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/ZedGraph.5.1.7/lib/net35-Client/sv/ZedGraph.resources.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/ZedGraph.5.1.7/lib/net35-Client/tr/ZedGraph.resources.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/ZedGraph.5.1.7/lib/net35-Client/zh-cn/ZedGraph.resources.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/ZedGraph.5.1.7/lib/net35-Client/zh-tw/ZedGraph.resources.dll" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Forecasting.sln" afterPath="$PROJECT_DIR$/Forecasting.sln" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ZGControltest/bin/Debug/forecasting.exe" afterPath="$PROJECT_DIR$/ZGControltest/bin/Debug/forecasting.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ZGControltest/bin/Debug/forecasting.pdb" afterPath="$PROJECT_DIR$/ZGControltest/bin/Debug/forecasting.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ZGControltest/obj/Debug/forecasting.exe" afterPath="$PROJECT_DIR$/ZGControltest/obj/Debug/forecasting.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ZGControltest/obj/Debug/forecasting.pdb" afterPath="$PROJECT_DIR$/ZGControltest/obj/Debug/forecasting.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ZGControltest/DesResult.cs" afterPath="$PROJECT_DIR$/ZGControltest/DesResult.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ZGControltest/Form1.cs" afterPath="$PROJECT_DIR$/ZGControltest/Form1.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ZGControltest/Program.cs" afterPath="$PROJECT_DIR$/ZGControltest/Program.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ZGControltest/SesResult.cs" afterPath="$PROJECT_DIR$/ZGControltest/SesResult.cs" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -82,17 +21,38 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Settings.Designer.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ZGControltest/Properties/Settings.Designer.cs">
+      <file leaf-file-name="Form1.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ZGControltest/Form1.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state relative-caret-position="168">
+              <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
               <folding>
-                <marker date="1490791614924" expanded="true" signature="0:392" ph="/* ------------------------------------------------------------------------------ ... */" />
-                <marker date="1490791614924" expanded="true" signature="428:992" ph="{...}" />
-                <marker date="1490791614924" expanded="true" signature="749:990" ph="{...}" />
-                <marker date="1490791614924" expanded="true" signature="934:987" ph="{...}" />
-                <marker date="1490791614924" expanded="true" signature="945:983" ph="{...}" />
+                <marker date="1491488402958" expanded="true" signature="6:149" ph="..." />
+                <marker date="1491488402958" expanded="true" signature="172:8414" ph="{...}" />
+                <marker date="1491488402958" expanded="true" signature="212:8412" ph="{...}" />
+                <marker date="1491488402958" expanded="true" signature="953:1008" ph="{...}" />
+                <marker date="1491488402958" expanded="true" signature="1069:2637" ph="{...}" />
+                <marker date="1491488402958" expanded="true" signature="1356:1431" ph="{...}" />
+                <marker date="1491488402958" expanded="true" signature="2647:2817" ph="/// On resize action, resize the ZedGraphControl to fill most of the Form, with a small ... " />
+                <marker date="1491488402958" expanded="true" signature="2879:2922" ph="{...}" />
+                <marker date="1491488402958" expanded="true" signature="2954:3196" ph="{...}" />
+                <marker date="1491488402958" expanded="true" signature="3206:3317" ph="/// Display customized tooltips when the mouse hovers over a point ... " />
+                <marker date="1491488402958" expanded="true" signature="3446:3655" ph="{...}" />
+                <marker date="1491488402958" expanded="true" signature="3690:5560" ph="{...}" />
+                <marker date="1491488402958" expanded="true" signature="5245:5442" ph="/* Tell ZedGraph to calculate the axis ranges ... */" />
+                <marker date="1491488402958" expanded="true" signature="5610:6366" ph="{...}" />
+                <marker date="1491488402958" expanded="true" signature="5693:6257" ph="{...}" />
+                <marker date="1491488402958" expanded="true" signature="5950:6130" ph="{...}" />
+                <marker date="1491488402958" expanded="true" signature="6420:6619" ph="{...}" />
+                <marker date="1491488402958" expanded="true" signature="6483:6609" ph="{...}" />
+                <marker date="1491488402958" expanded="true" signature="6669:8022" ph="{...}" />
+                <marker date="1491488402958" expanded="true" signature="6778:7913" ph="{...}" />
+                <marker date="1491488402958" expanded="true" signature="6867:7899" ph="{...}" />
+                <marker date="1491488402958" expanded="true" signature="6988:7114" ph="{...}" />
+                <marker date="1491488402958" expanded="true" signature="7186:7296" ph="{...}" />
+                <marker date="1491488402958" expanded="true" signature="7392:7749" ph="{...}" />
+                <marker date="1491488402958" expanded="true" signature="8076:8406" ph="{...}" />
+                <marker date="1491488402958" expanded="true" signature="8282:8396" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -107,6 +67,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/ZGControltest/Properties/AssemblyInfo.cs" />
+        <option value="$PROJECT_DIR$/ZGControltest/Program.cs" />
+        <option value="$PROJECT_DIR$/ZGControltest/DesResult.cs" />
+        <option value="$PROJECT_DIR$/ZGControltest/SesResult.cs" />
+        <option value="$PROJECT_DIR$/ZGControltest/Form1.cs" />
       </list>
     </option>
   </component>
@@ -236,12 +200,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1491487931938</updated>
-      <workItem from="1491487936478" duration="167000" />
+      <workItem from="1491487936478" duration="490000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="167000" />
+    <option name="totallyTimeSpent" value="490000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -254,6 +218,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -265,7 +230,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -344,14 +309,112 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ZGControltest/Properties/Settings.Designer.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state relative-caret-position="189">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
             <marker date="1490791614924" expanded="true" signature="0:392" ph="/* ------------------------------------------------------------------------------ ... */" />
             <marker date="1490791614924" expanded="true" signature="428:992" ph="{...}" />
             <marker date="1490791614924" expanded="true" signature="749:990" ph="{...}" />
             <marker date="1490791614924" expanded="true" signature="934:987" ph="{...}" />
             <marker date="1490791614924" expanded="true" signature="945:983" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZGControltest/DesResult.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="34" column="24" lean-forward="false" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+          <folding>
+            <marker date="1491488273058" expanded="true" signature="6:82" ph="..." />
+            <marker date="1491488273058" expanded="true" signature="105:904" ph="{...}" />
+            <marker date="1491488273058" expanded="true" signature="134:902" ph="{...}" />
+            <marker date="1491488273058" expanded="true" signature="438:736" ph="{...}" />
+            <marker date="1491488273058" expanded="true" signature="770:817" ph="{...}" />
+            <marker date="1491488273058" expanded="true" signature="850:896" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZGControltest/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <marker date="1491488251757" expanded="true" signature="6:41" ph="..." />
+            <marker date="1491488251757" expanded="true" signature="64:371" ph="{...}" />
+            <marker date="1491488251757" expanded="true" signature="100:369" ph="{...}" />
+            <marker date="1491488251757" expanded="true" signature="106:184" ph="/// The main entry point for the application. ... " />
+            <marker date="1491488251757" expanded="true" signature="227:366" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZGControltest/SesResult.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <folding>
+            <marker date="1491488299863" expanded="true" signature="6:82" ph="..." />
+            <marker date="1491488299863" expanded="true" signature="105:661" ph="{...}" />
+            <marker date="1491488299863" expanded="true" signature="134:659" ph="{...}" />
+            <marker date="1491488299863" expanded="true" signature="333:572" ph="{...}" />
+            <marker date="1491488299863" expanded="true" signature="606:653" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZGControltest/Form1.Designer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding>
+            <marker date="1491487791578" expanded="true" signature="21:3578" ph="{...}" />
+            <marker date="1491487791578" expanded="true" signature="44:3576" ph="{...}" />
+            <marker date="1491487791578" expanded="true" signature="50:114" ph="/// Required designer variable. ... " />
+            <marker date="1491487791578" expanded="true" signature="180:353" ph="/// Clean up any resources being used. ... " />
+            <marker date="1491487791578" expanded="true" signature="405:525" ph="{...}" />
+            <marker date="1491487791578" expanded="true" signature="455:491" ph="{...}" />
+            <marker date="1491487791578" expanded="true" signature="529:3532" ph="Windows Form Designer generated code" />
+            <marker date="1491487791578" expanded="true" signature="577:722" ph="/// Required method for Designer support - do not modify ... " />
+            <marker date="1491487791578" expanded="true" signature="759:3518" ph="{...}" />
+            <marker date="1491487791578" expanded="true" signature="898:918" ph="/* zg1 ... */" />
+            <marker date="1491487791578" expanded="true" signature="3063:3085" ph="/* Form1 ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZGControltest/Form1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding>
+            <marker date="1491488402958" expanded="true" signature="6:149" ph="..." />
+            <marker date="1491488402958" expanded="true" signature="172:8414" ph="{...}" />
+            <marker date="1491488402958" expanded="true" signature="212:8412" ph="{...}" />
+            <marker date="1491488402958" expanded="true" signature="953:1008" ph="{...}" />
+            <marker date="1491488402958" expanded="true" signature="1069:2637" ph="{...}" />
+            <marker date="1491488402958" expanded="true" signature="1356:1431" ph="{...}" />
+            <marker date="1491488402958" expanded="true" signature="2647:2817" ph="/// On resize action, resize the ZedGraphControl to fill most of the Form, with a small ... " />
+            <marker date="1491488402958" expanded="true" signature="2879:2922" ph="{...}" />
+            <marker date="1491488402958" expanded="true" signature="2954:3196" ph="{...}" />
+            <marker date="1491488402958" expanded="true" signature="3206:3317" ph="/// Display customized tooltips when the mouse hovers over a point ... " />
+            <marker date="1491488402958" expanded="true" signature="3446:3655" ph="{...}" />
+            <marker date="1491488402958" expanded="true" signature="3690:5560" ph="{...}" />
+            <marker date="1491488402958" expanded="true" signature="5245:5442" ph="/* Tell ZedGraph to calculate the axis ranges ... */" />
+            <marker date="1491488402958" expanded="true" signature="5610:6366" ph="{...}" />
+            <marker date="1491488402958" expanded="true" signature="5693:6257" ph="{...}" />
+            <marker date="1491488402958" expanded="true" signature="5950:6130" ph="{...}" />
+            <marker date="1491488402958" expanded="true" signature="6420:6619" ph="{...}" />
+            <marker date="1491488402958" expanded="true" signature="6483:6609" ph="{...}" />
+            <marker date="1491488402958" expanded="true" signature="6669:8022" ph="{...}" />
+            <marker date="1491488402958" expanded="true" signature="6778:7913" ph="{...}" />
+            <marker date="1491488402958" expanded="true" signature="6867:7899" ph="{...}" />
+            <marker date="1491488402958" expanded="true" signature="6988:7114" ph="{...}" />
+            <marker date="1491488402958" expanded="true" signature="7186:7296" ph="{...}" />
+            <marker date="1491488402958" expanded="true" signature="7392:7749" ph="{...}" />
+            <marker date="1491488402958" expanded="true" signature="8076:8406" ph="{...}" />
+            <marker date="1491488402958" expanded="true" signature="8282:8396" ph="{...}" />
           </folding>
         </state>
       </provider>

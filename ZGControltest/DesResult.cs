@@ -9,10 +9,10 @@ namespace forecasting
     {
         public double Error;
         public PointPairList Des;
-        public List<double> Trends = new List<double>();
+        public List<double> Trends;
 
-        private double _alpha;
-        private double _beta;
+        private readonly double _alpha;
+        private readonly double _beta;
 
 
         public DesResult(PointPairList des, List<double> trends, double alpha, double beta, IList<List<int>> normal)
@@ -27,12 +27,12 @@ namespace forecasting
             Error = Math.Sqrt(sum / normal.Count - 2);
         }
 
-        public double getAlpha()
+        public double GetAlpha()
         {
             return _alpha;
         }
 
-        public double getBeta()
+        public double GetBeta()
         {
             return _beta;
         }
